@@ -1,0 +1,16 @@
+{
+    "name": "Witches.Utilities",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6ebccbb34cb8f4a16906a2e4a1d9dc3a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
